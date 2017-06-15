@@ -11,3 +11,6 @@ If you want to embed images, this is how you do it:
 -----|------|-----
 今天 | 很热 | 少穿
 昨天 | 下雨 | 打伞
+ 
+ 
+ @octocat :+1: This PR looks great - it's ready to merge! :shipit:
